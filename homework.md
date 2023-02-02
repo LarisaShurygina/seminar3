@@ -4,14 +4,14 @@
 
 Основная часть  *очень* важной информации
 1. Основные команды
-git init
-git add
-git status
-git diff
-git commit
 
 2. Команды по ветвлению и слиянию
 
 3. Команды при совместной работе
+git fetch
+git pull
+git push
+git remote
+git archive
 
 4. Команды осмотра и сравнения
