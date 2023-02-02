@@ -4,6 +4,12 @@
 
 Основная часть  *очень* важной информации
 1. Основные команды
+git init
+git add
+git status
+git diff
+git commit 
+git reset
 
 2. Команды по ветвлению и слиянию
 git branch
