@@ -8,6 +8,7 @@
 2. Команды по ветвлению и слиянию
 
 3. Команды при совместной работе
+git fetch
 git pull
 git push
 git remote
