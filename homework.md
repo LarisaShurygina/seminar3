@@ -8,7 +8,8 @@ git init
 git add
 git status
 git diff
-git commit
+git commit 
+git reset
 
 2. Команды по ветвлению и слиянию
 
