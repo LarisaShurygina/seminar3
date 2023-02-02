@@ -19,3 +19,6 @@ git remote
 git archive
 
 4. Команды осмотра и сравнения
+git show
+git shortlog
+git describe
