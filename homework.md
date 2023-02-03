@@ -28,3 +28,5 @@ git archive
 git show
 git shortlog
 git describe
+
+Раз два три, продолжение
